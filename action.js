@@ -1,5 +1,10 @@
 
-    const targetTime = new Date("2023-09-11T00:00:00"); // September 2, 2023, 23:59:00
+
+// the date set here is used to open the quiz for a period of time
+
+
+    // const targetTime = new Date("2023-09-11T00:00:00"); // inital date for usage 2022, then used again in September 2,  2023 23:59:00
+    const targetTime = new Date("2027-09-11T00:00:00");
     const currentTime = new Date();
     const targetDate = new Date('2023-09-01T23:35:00');// this is for testing
     const newTime = targetTime - currentTime;
