@@ -50,7 +50,7 @@ body{
    min-height: 100vh;
 }
 .welcome{
-  background-image: url("https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/d31beb20-ba31-4fc2-96ac-c87097b92b9d/cmtd202100105-toc-0001-m.jpg");
+  background-image: url("./images/chem logo.jpg");
   background-position: center;
   background-clip: border-box;
   background-blend-mode: screen;
